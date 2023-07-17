@@ -1,6 +1,5 @@
 Rahmat Resolusi
 -- Jago Android Studio
 -- Jago Java
--- jago Buat Web
 
 -- Membuat Konten 
