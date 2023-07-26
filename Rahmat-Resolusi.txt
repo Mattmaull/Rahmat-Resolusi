@@ -1,5 +1,7 @@
 Rahmat Resolusi
 -- Jago Android Studio
+    - CRUD
+    - Webview
 -- Jago Java
 
 -- Membuat Konten 
